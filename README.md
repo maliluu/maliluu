@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @maliluu
+- 👋 Hi, I’m Mari Lynn, also referred to as Mal.
 - 👀 I’m interested in coding, more specifically cybersecurity and ethical hacking
-- 🌱 I’m currently learning python
 - 📫 Here's my e-mail: marilynneyammine@gmail.com
-- ⚡ Fun fact: C++ is my all-time favorite coding language and I <3 cats ฅ^•ﻌ•^ฅ
+- 🐈 Fun fact: C++ is my all-time favorite coding language and I love cats.
